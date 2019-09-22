@@ -3,11 +3,11 @@ entries:
   jenkins:
   - apiVersion: v1
     appVersion: lts
-    created: "2019-09-22T15:07:21.85193+08:00"
+    created: "2019-09-22T15:48:23.973981+08:00"
     description: Open source continuous integration server. It supports multiple SCM
       tools including CVS, Subversion and Git. It can execute Apache Ant and Apache
       Maven-based projects as well as arbitrary scripts.
-    digest: d7681f51c39022c80382e2ea243d52e098e4be91852818562b4fe94e90ea1b83
+    digest: 7ef3cac71acc816971391b0aed448b63bb2b55190772586869f60272ca12aaa0
     home: https://jenkins.io/
     icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png
     maintainers:
@@ -30,4 +30,4 @@ entries:
     urls:
     - jenkins-1.7.2.tgz
     version: 1.7.2
-generated: "2019-09-22T15:07:21.839792+08:00"
+generated: "2019-09-22T15:48:23.968449+08:00"
